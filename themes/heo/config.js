@@ -114,14 +114,14 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: 'https://t.me/EdrttHooon',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
   HEO_MENU_INDEX: true, // 显示首页
   HEO_MENU_CATEGORY: true, // 显示分类
-  HEO_MENU_TAG: true, // 显示标签
-  HEO_MENU_ARCHIVE: true, // 显示归档
+  HEO_MENU_TAG: false, // 显示标签
+  HEO_MENU_ARCHIVE: false, // 显示归档
   HEO_MENU_SEARCH: true, // 显示搜索
 
   HEO_POST_LIST_COVER: true, // 列表显示文章封面
