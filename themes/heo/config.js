@@ -32,7 +32,7 @@ const CONFIG = {
   //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
-  //HEO_INFOCARD_GREETINGS: [
+  HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
@@ -51,7 +51,7 @@ const CONFIG = {
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
- // HEO_GROUP_ICONS: [
+  HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
       img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
